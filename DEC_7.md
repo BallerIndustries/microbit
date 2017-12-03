@@ -1,0 +1,70 @@
+# Hour of Code December 7 2017
+
+## Getting Started
+
+* Launch microbit coding website.
+* Let's Code -> Start Javascript Blocks Editor.
+* Click 'Getting Started'  (or find under ? Help) and follow instructions.
+* :bulb: Learn to:
+  * Say Hello.
+  * Download to microbit.
+  * React to pressing buttons. -- for eg; Press Button A to display temperature. Press Button B to display a Smiley face. 
+  * Learn about Random numbers - Display Random Numbers by building a dice using Shake and Random number festure.
+
+## Flashing Heart
+
+* Projects -> Flashing Heart. Use the tutorial on microbit page to get started with this exercise. 
+* :question: Questions:
+  1. Make your own animations -- something more exciting than a beating heart?
+  1. How can you slow down the animation?
+  1. Can you change the speed of the animation using the buttons?  (learn to set a variable)
+
+## Rock Paper Scissors
+
+* Projects -> Rock Paper Scissors
+* :bulb: Learn:
+  * How to set a variable.
+  * if / then / else logic.
+* Download to 2 microbits and play amongst yourselves.
+* :question: Questions:
+  1. How do you know if the weapon has changed if the same weapon is used again?  Hint: blank or show something else on shake, add a pause.
+  1. Use A B buttons to keep score, ie A to add, B to subtract
+
+## Choose an Idea!
+
+### Hot or Cold
+* [Hot or Cold](https://makecode.microbit.org/projects/hot-or-cold) - In this game, players are looking for hidden micro:bit that emit radio signals. 
+* Skills: variables, logic, radio, arrays (advanced).
+
+### Stopwatch
+* [Stopwatch](/Instructions/Stopwatch/Stopwatch.md) - Build your own stopwatch.
+* :bulb: Learn:
+  * Advanced input values.
+  * Practice working with variables.
+  * :question: Questions:
+  1. What happens if you press the button A again while the stopwatch is running? How can you fix the problem?
+  2. If the stopwatch runs for a long time, it will become harder to know how many minutes pass. Can you change the code to display the lapsed seconds as minutes and seconds : 01:45 ?
+
+### Stopwatch advanced
+* [Stopwatch advanced](/Instructions/Stopwatch_multiple_timers/Stopwatch_advanced.md) - Improve your stopwatch so it can count multiple intervals at once.
+* :bulb: Learn:
+  * Read and add values to an array.
+  * :question: Questions:
+   1. After the stopwatch is stopped (pressed button A+B), what happenes if you start it again? Press button A and see if you can figure out what is going on.
+* [PathChaser simple](/Instructions/PathChaser/PathChaser_simple.md) - Build a simple game using the microbit accelerometer
+* :bulb: Learn:
+  * Advanced input - accelerometer.
+  * Turning on / off a single led point
+  * Loop with pre-condition
+  * :question: Questions:
+   1. The portal is placed randomly on the board. What if the location on the portal is 2,2 - same as the initial location of the path chaser? Can we do something to make sure this never happens?
+   2. Can you change the code so that we can play more than once?
+   3. What other game features could we add - what about a pause button?
+
+### Examples (to get your own ideas!)
+
+* [Light Levels](https://makecode.microbit.org/examples/plot-light-level)
+* [Acceleration](https://makecode.microbit.org/examples/plot-acceleration)
+* [Random LEDs](https://makecode.microbit.org/examples/rando)
+
+* [Lessons](https://makecode.microbit.org/lessons) - Lots and lots more ideas!
